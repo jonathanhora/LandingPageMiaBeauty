@@ -226,10 +226,6 @@ footer{
         gap: 10px;
     }
 
-    .header svg{
-        width: 90px;
-    }
-
     .hero, .services-list{
         display: flex;
         flex-direction: column;
